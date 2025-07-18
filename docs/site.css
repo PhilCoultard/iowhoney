@@ -1,0 +1,5 @@
+/* Remove darkening of images */
+header.page-header {
+  filter: none !important;
+  background-blend-mode: normal !important;
+}

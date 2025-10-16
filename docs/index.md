@@ -5,7 +5,7 @@ header.page-header {
 }
 </style>
 
-# Isle of Wight Honey
+# Wight Gold Honey
 
 Organic Honey produced in Cowes on the Isle of Wight in the South of England.
 
@@ -37,4 +37,4 @@ or scan the QR code:
 
 ![[87g Organic Honey](https://paypal.me/iowhoney/4)](images/paypal_qr_iowhoney-4.png "87g https://paypal.me/iowhoney/4")
 
-Delivery by arrangement: [contact@iowhoney.com](mailto:contact@iowhoney.com)
+Delivery by arrangement: [contact@wightgoldhoney.com](mailto:contact@wightgoldhoney.com)
